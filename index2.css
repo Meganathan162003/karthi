@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    
+}
+body{
+    background-image:linear-gradient(rgb(51, 231, 207),rgb(132, 227, 232));
+}
+
+
+ .top{
+    margin-top: 5px;
+    margin-left: 500px;
+    color: rgb(55, 0, 255);
+}
+.fac{
+    display: flex;
+    justify-content: center;
+}
+.fac ul li{
+    margin-top: 30px;
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+}
+.ok{margin: 5px;}
+.lib h1{padding: 5px;}
+.lib p{padding: 15px;}
+.soft{margin-top: 10px;}
+.soft h1{padding: 5px;}
+.soft p{padding: 15px;}
+.sports{margin-top: 10px;}
+.sports h1{padding: 5px;}
+.sports p{padding: 15px;}
+.it{margin-top: 10px;}
+.it h1{padding: 5px;}
+.it p{padding: 15px;}
+.hostel{margin-top: 10px;}
+.hostel h1{padding: 5px;}
+.hostel p{padding: 10px;}
+.back{
+    margin-top: -5px;
+    margin-left: 10px;
+}

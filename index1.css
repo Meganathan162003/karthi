@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-image: linear-gradient(rgb(89, 89, 221),rgb(144, 144, 211)); */
+}
+img{
+    width: 300px;
+    margin-left: 200px;
+}
+body{
+    background-image: linear-gradient(rgb(71, 71, 241),rgb(178, 178, 244));
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    color: rgb(71, 0, 138);
+    padding: 10px;
+}
+.achive h2{
+    color: rgb(1, 1, 55);
+    padding: 20px;
+
+}
+.achive p{
+    padding: 10px;
+    margin: 20px;
+}
+.list li{
+    padding: 10px;
+    margin-left: 50px;
+}
+.back{
+    margin: 15px;
+    width: 60px;
+}
+.back i{
+    width: 50px;
+}
